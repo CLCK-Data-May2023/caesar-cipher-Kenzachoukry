@@ -10,4 +10,4 @@ def encrypt(text, shift=5):
         else:
             encrypted_char = char
         empty_text += encrypted_char
-    return encrypted_text
+    return empty_text
